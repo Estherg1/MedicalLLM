@@ -7,7 +7,7 @@ load_dotenv()
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-df = pd.read_csv("reddit_cleaned_data (1).csv")
+df = pd.read_csv("reddit_cleaned_data (1).csv", encoding='latin1')
 
 if 'title' not in df.columns or 'selftext' not in df.columns:
     raise ValueError("CSV must contain both 'title' and 'selftext' columns.")
