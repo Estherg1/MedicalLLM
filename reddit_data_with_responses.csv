@@ -1,5 +1,4 @@
-reddit_data_with_responses
-Unnamed: 0,title,selftext,physician_comments,Medical LLM Response,combined_text,General LLM Response
+,title,selftext,physician_comments,Medical LLM Response,combined_text,General LLM Response
 0,Leg pain after 4ml IM injection,"I'm a regular user of anabolic steroids, peptides, etc. 5 days ago I injected 4ml of a testosterone that had the concentration level of 500mg/ml. It had about 3% Benzyl Alcohol added to it and was filtered through a 0.22nm nylon filter.
 
 The next day, I couldn't walk. I have swelling at the injection site and around/above my knee cap. It's very, very difficult to walk, and the pain is near unbearable if my leg isn't elevated/at level with my body; so I've been near bed ridden for the past 4 days.
@@ -2628,8 +2627,7 @@ It's important to discuss all of these possibilities with your healthcare provid
 
 My cousin who's a nurse said I should continue for a few more days, but I'm not sure, help?","I agree you have to take the full course when you first started. You can read here why I don't think antibiotics are justified for strep throat: http://www.reddit.com/r/AskDocs/comments/1yay04/strep_throat_skipping_antibiotics/ Just the same link I provided above, but you started your sentence writing ""why would you suggest not to take his antibiotics?"" so I guess I should repeat it.
 
-Everyone is downvoting, but nobody has any knowledge of the evidence for antibiotics in strep throat/sore throat. If you have no idea what you're talking about, then stay out of the discussion and at least don't downvote.","In most cases, if a rapid strep test and/or throat culture is negative, and your symptoms are resolving, it’s reasonable to stop the antibiotics. Overuse of antibiotics contributes to resistance and can disrupt gut flora. However, if you had very classic strep symptoms and your doctor prescribed antibiotics preemptively, you might want to finish at least 5 days total — especially if the symptoms were severe and resolved rapidly after starting treatment (suggesting a bacterial infection). Ultimately, this is a clinical judgment call. If you're feeling well, had a negative test, and are only on day 3, stopping may be acceptable — but discuss with your prescribing provider if unsure.
-","Should I continue on my antibiotics?
+Everyone is downvoting, but nobody has any knowledge of the evidence for antibiotics in strep throat/sore throat. If you have no idea what you're talking about, then stay out of the discussion and at least don't downvote.","In most cases, if a rapid strep test and/or throat culture is negative, and your symptoms are resolving, it’s reasonable to stop the antibiotics. Overuse of antibiotics contributes to resistance and can disrupt gut flora. However, if you had very classic strep symptoms and your doctor prescribed antibiotics preemptively, you might want to finish at least 5 days total — especially if the symptoms were severe and resolved rapidly after starting treatment (suggesting a bacterial infection). Ultimately, this is a clinical judgment call. If you're feeling well, had a negative test, and are only on day 3, stopping may be acceptable — but discuss with your prescribing provider if unsure.","Should I continue on my antibiotics?
 
 I was prescribed antibiotics for a 10 day period because I possibly had strep throat. Today the results came back negative for strep, and I'm 3 days into the antibiotics. I want to drink this weekend but immediately after taking the antibiotics I felt better. I'm wondering if I should stop taking them I have two options:
 1) I stop because I have a virus and only felt better after antibiotics as a coincidence
@@ -2651,8 +2649,7 @@ Warm saltwater gargles
 Cold drinks or popsicles
 Throat lozenges or sprays (ask a parent or pharmacist to recommend safe ones for your age)
 Humidifier to keep air moist
-If it is strep, you’ll likely be prescribed penicillin or amoxicillin — usually in pill or liquid form. If you have trouble swallowing pills, let your doctor know — liquid antibiotics are commonly available and most aren't too bad in taste these days. Hang in there — once antibiotics start, pain usually improves within 24–48 hours.
-","Ways to help with pain from strep throat?
+If it is strep, you’ll likely be prescribed penicillin or amoxicillin — usually in pill or liquid form. If you have trouble swallowing pills, let your doctor know — liquid antibiotics are commonly available and most aren't too bad in taste these days. Hang in there — once antibiotics start, pain usually improves within 24–48 hours.","Ways to help with pain from strep throat?
 
 I'm 13 years old, and my sex is male. Actually I'm not sure if I actually have strep. I'm going to the doctors later today but until then I need to do something about this pain. Yesterday I was feeling really sick, I stayed home from school and it seemed to just be the flu, I threw up on and took ibuprofen. My throat also hurt a little bit and looked red. I slept pretty much all day. Anyways when I woke up this morning my throat felt like sandpaper whenever I try to drink or just swallow my spit, when I looked in the back of my throat there was white spots everywhere. So I just took another ibuprofen. But I can't eat or drink anything, the pain is so horrible. Also if it does happen to be strep what meds will I be given? Like will they be huge pills or liquids? Im horrible at taking large pills (over three fourths of an inch) lol I know in weird. But if I do get a liquid will it be a nasty tasting one? Anyways, what can I do to relieve some of the pain right now.","I'm sorry to hear you're not feeling well. Here are a few home remedies you could try to help with the pain until your doctor's appointment:
 
@@ -2678,8 +2675,7 @@ That being said, the body is a complex system and it's not always as straightfor
 Therefore, it would be prudent to continue to work with your doctor to investigate the cause of your polycythemia. In the meantime, managing your sleep apnea can help to improve your overall health and may potentially have an impact on your red blood cell count.
 
 Remember, this advice is intended to be general in nature, and specific causes may not apply to your situation. Always consult with your healthcare provider for accurate information."
-85,Would stomach flu affect the results of a cholesterol test?,"I've always had high cholesterol and each year it creeps up a little. I've just had a blood test and got the lowest results ever, but 2 weeks before I had the test I had the worst stomach flu ever, which took me a week to get over. Do you think having the stomach flu gave the results a false low or do you think I'm finally getting the numbers under control?",I have no idea. Perhaps you should take a control sample. ,"Yes, acute illness, especially one involving dehydration, reduced intake, or malabsorption (like with stomach flu), can temporarily alter cholesterol levels. Your body is in a catabolic state during illness, often resulting in lower LDL and total cholesterol, and sometimes lower triglycerides. If you were barely eating or rapidly losing fluids, this could explain an anomalously low result. To determine whether the change is meaningful or just a blip, your best course is to retest in 6–12 weeks after full recovery, ideally fasting and under usual health conditions. That said, if you’ve made positive lifestyle changes, it could also be a true improvement.
-","Would stomach flu affect the results of a cholesterol test?
+85,Would stomach flu affect the results of a cholesterol test?,"I've always had high cholesterol and each year it creeps up a little. I've just had a blood test and got the lowest results ever, but 2 weeks before I had the test I had the worst stomach flu ever, which took me a week to get over. Do you think having the stomach flu gave the results a false low or do you think I'm finally getting the numbers under control?",I have no idea. Perhaps you should take a control sample. ,"Yes, acute illness, especially one involving dehydration, reduced intake, or malabsorption (like with stomach flu), can temporarily alter cholesterol levels. Your body is in a catabolic state during illness, often resulting in lower LDL and total cholesterol, and sometimes lower triglycerides. If you were barely eating or rapidly losing fluids, this could explain an anomalously low result. To determine whether the change is meaningful or just a blip, your best course is to retest in 6–12 weeks after full recovery, ideally fasting and under usual health conditions. That said, if you’ve made positive lifestyle changes, it could also be a true improvement.","Would stomach flu affect the results of a cholesterol test?
 
 
 I've always had high cholesterol and each year it creeps up a little. I've just had a blood test and got the lowest results ever, but 2 weeks before I had the test I had the worst stomach flu ever, which took me a week to get over. Do you think having the stomach flu gave the results a false low or do you think I'm finally getting the numbers under control?","Gastrointestinal illness like stomach flu could potentially affect your cholesterol test results. During illness, your body might not produce as much cholesterol or it might be used up at a faster rate, which could result in lower levels in your blood. However, it's also possible that lifestyle changes or medications you're taking are helping to lower your cholesterol. It would be best to discuss this with your healthcare provider to understand your specific situation. It might be recommended to repeat the test after a period of good health to be sure."
@@ -2800,8 +2796,7 @@ Exercise plan: Aim for 150 min/week of moderate aerobic activity (brisk walking,
 For iron deficiency, focus on iron-rich foods like:
 Heme sources (better absorbed): lean beef, chicken liver, fish.
 Non-heme sources: spinach, tofu, lentils, fortified cereals — pair with vitamin C for better absorption.
-Balancing both can be tricky — for instance, red meat raises cholesterol but is iron-rich. So, consider lean meats or consult a dietitian for a tailored plan.
-","High Cholesterol, how to manage?
+Balancing both can be tricky — for instance, red meat raises cholesterol but is iron-rich. So, consider lean meats or consult a dietitian for a tailored plan.","High Cholesterol, how to manage?
 
 Age: 21
 Sex: Male
@@ -2875,8 +2870,7 @@ Any and all advice is greatly appreciated!  Thank you all for your time :D
 Physical therapy (PT) over chiropractic — PT focuses on strengthening weak muscles, retraining posture, and ergonomics.
 Core stabilization and posture retraining (McKenzie exercises, yoga, or Egoscue method).
 Assess for functional scoliosis or pelvic tilt, based on the foot pressure chart.
-If you’ve had no progress after months, consider seeing a physiatrist (PM&R) or orthopedic spine specialist.
-","Frequent Back Pain and Headaches, Please help :D
+If you’ve had no progress after months, consider seeing a physiatrist (PM&R) or orthopedic spine specialist.","Frequent Back Pain and Headaches, Please help :D
 
 Hello All!
 
@@ -3012,8 +3006,7 @@ Is there a polite way of approaching this considering its basically just a hunch
 Neuromuscular disorders (e.g., congenital myopathy, SMA)
 Nutritional or endocrine issues
 Connective tissue disorders (e.g., Ehlers-Danlos)
-If you’re concerned, consider kindly encouraging her to see a neurologist or primary care doctor for evaluation.
-","is ti possible to have post polio syndrome and not be aware of it?
+If you’re concerned, consider kindly encouraging her to see a neurologist or primary care doctor for evaluation.","is ti possible to have post polio syndrome and not be aware of it?
 
 Here is the situation: I have a co-worker who is extremely thin, 24 years old, female, lack of muscle development is evident, constanly feels weak, sometimes might experience slight tremors o twitiching when feeling weak. No eating disorders are evident, she eats properly and seems otherwise healthy but looks extremly thin.
 
